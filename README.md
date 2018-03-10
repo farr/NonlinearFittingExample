@@ -1,0 +1,1 @@
+This example of non-linear model fitting sprang out of a [Twitter exchange](https://twitter.com/farrwill/status/972215383636705280) with James Guillochon asking for examples of fitting a model to x-y data with errors in both dimensions.
